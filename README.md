@@ -4,9 +4,9 @@ I am a student from the Scaler School of Technology. I am passionate about Codin
 
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Rudrakc&theme=codeSTACKr&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&border_color=30363d&title_color=ffffff)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Rudrakc&theme=codeSTACKr&show_icons=true&hide_border=false&border_color=30363d&title_color=ffffff)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rudrakc&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact&border_color=30363d&title_color=ffffff)
+![](https://github-readme-stats.vercel.app/api?username=Rudrakc&theme=codeSTACKr&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&border_color=30363d&title_color=ffffff&text_color=9f9f9f)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Rudrakc&theme=codeSTACKr&show_icons=true&hide_border=false&border_color=30363d&title_color=ffffff&text_color=9f9f9f)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rudrakc&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact&border_color=30363d&title_color=ffffff&text_color=9f9f9f)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rudrakc&label=Profile%20Views&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
