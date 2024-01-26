@@ -9,7 +9,7 @@ I am a student from the Scaler School of Technology. I am passionate about Codin
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rudrakc&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Rudrakc&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Rudrakc&icon=0&color=0d1116)](https://visitcount.itsvg.in)
 
 
 
@@ -19,12 +19,6 @@ I am a student from the Scaler School of Technology. I am passionate about Codin
 <a href="https://linkedin.com/in/rudrachauhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rudrachauhan" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rudra_chauhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rudra_chauhan" height="30" width="40" /></a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rudrakc&show_icons=true&locale=en&layout=compact" alt="rudrakc" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rudrakc&show_icons=true&locale=en" alt="rudrakc" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rudrakc&" alt="rudrakc" /></p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
