@@ -2,9 +2,9 @@
 I am a student from the Scaler School of Technology. I am passionate about Coding, Open Source, and creating cool and useful projects using my skills! 🌱
 - 📍 Currently based in Bangalore.
 - 📫 How to reach me rudrachauhan2888@gmail.com
--
+
 ### 💌 Socials  
-<a href="https://twitter.com/therudrachauhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="therudrachauhan" height="21" width="28" /></a> \t
+<a href="https://twitter.com/therudrachauhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="therudrachauhan" height="21" width="28" /></a> <t><t>
 <a href="https://linkedin.com/in/rudrachauhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rudrachauhan" height="21" width="28" /></a>
 <a href="https://www.leetcode.com/rudra_chauhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rudra_chauhan" height="21" width="28" /></a>
 
