@@ -4,8 +4,8 @@ I am a student from the Scaler School of Technology. I am passionate about Codin
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Rudrakc&theme=dark&hide_border=false&include_all_commits=true&count_private=true&bg_color=00000000)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Rudrakc&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Rudrakc&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Rudrakc&theme=dark&hide_border=false&bg_color=00000000)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rudrakc&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
