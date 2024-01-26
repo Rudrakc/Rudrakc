@@ -9,7 +9,7 @@ I am a student from the Scaler School of Technology. I am passionate about Codin
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rudrakc&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Rudrakc&icon=0&color=0d1116)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Rudrakc&icon=0&color=151515)](https://visitcount.itsvg.in)
 
 
 
