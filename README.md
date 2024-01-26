@@ -1,4 +1,4 @@
-### Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Rudra!
+### Hi there 👋, I'm Rudra!
 I am a student from the Scaler School of Technology. I am passionate about Coding, Open Source, and creating cool and useful projects using my skills! 🌱
 - 📍 Currently based in Bangalore.
 - 📫 How to reach me rudrachauhan2888@gmail.com
@@ -18,7 +18,7 @@ I am a student from the Scaler School of Technology. I am passionate about Codin
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rudrakc&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact&border_color=30363d&title_color=ffffff&text_color=9f9f9f)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rudrakc&label=Profile%20Views&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in) 👋
+[![](https://visitcount.itsvg.in/api?id=rudrakc&label=Profile%20Views&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in) 
 
 
 
