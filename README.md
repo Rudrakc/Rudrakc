@@ -2,13 +2,13 @@
 I am a student from the Scaler School of Technology. I am passionate about Coding, Open Source, and creating cool and useful projects using my skills! 🌱
 - 📍 Currently based in Bangalore.
 - 📫 How to reach me rudrachauhan2888@gmail.com
+</br>
 
 ### 💌 Socials  
-<a href="https://twitter.com/therudrachauhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="therudrachauhan" height="30" width="40" /></a> &nbsp;&nbsp;
-<a href="https://linkedin.com/in/rudrachauhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rudrachauhan" height="30" width="40" /></a> &nbsp;&nbsp;
-<a href="https://www.leetcode.com/rudra_chauhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rudra_chauhan" height="30" width="40" /></a>
-
-
+<a href="https://twitter.com/therudrachauhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="therudrachauhan" height="27" width="36" /></a> &nbsp;&nbsp;
+<a href="https://linkedin.com/in/rudrachauhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rudrachauhan" height="27" width="36" /></a> &nbsp;&nbsp;
+<a href="https://www.leetcode.com/rudra_chauhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rudra_chauhan" height="27" width="36" /></a>
+</br>
 
 ### 📊 GitHub Stats:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rudrakc&theme=dark&card_width=532&background=09131B&border=30363D&sideLabels=FB8C00&stroke=30363D)](https://git.io/streak-stats)
