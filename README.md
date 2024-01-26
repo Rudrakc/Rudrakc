@@ -1,6 +1,10 @@
 ### Hi there 👋, I'm Rudra!
 I am a student from the Scaler School of Technology. I am passionate about Coding, Open Source, and creating cool and useful projects using my skills! 🌱
+- 📍 Currently based in Bangalore.
 - 📫 How to reach me rudrachauhan2888@gmail.com
+- LinkedIn
+- LeetCode
+- X 
 
 
 ### 📊 GitHub Stats:
@@ -17,7 +21,7 @@ I am a student from the Scaler School of Technology. I am passionate about Codin
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/therudrachauhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="therudrachauhan" height="30" width="40" /></a>
+<a href="https://twitter.com/therudrachauhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="therudrachauhan" height="9" width="12" /></a>
 <a href="https://linkedin.com/in/rudrachauhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rudrachauhan" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rudra_chauhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rudra_chauhan" height="30" width="40" /></a>
 </p>
