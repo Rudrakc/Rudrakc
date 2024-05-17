@@ -2,7 +2,8 @@
 I am a student from the Scaler School of Technology. I am passionate about Coding, Open Source, and creating cool and useful projects using my skills! 🌱
 - 📍 Currently based in Bangalore.
 - 📫 How to reach me rudrachauhan2888@gmail.com
-- 🌐 My portfolio - rudrachauhan.in
+- 🌐 My portfolio - [rudrachauhan.in](https://rudrachauhan.in)
+
 
 ## 💌 Socials  
 <a href="https://twitter.com/therudrachauhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="therudrachauhan" height="27" width="36" /></a> &nbsp;&nbsp;
