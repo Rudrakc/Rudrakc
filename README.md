@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Rudra!
-I am a student from the Scaler School of Technology. I am passionate about Coding, Open Source, and creating cool and useful projects using my skills! 🌱
+I am a student. I am passionate about Coding, Open Source, and creating cool and useful projects using my skills! 🌱
 - 📍 Currently based in London.
 - 📫 How to reach me rudrachauhan2888@gmail.com
 - 🌐 My portfolio - [rudrachauhan.in](https://rudrachauhan.in)
