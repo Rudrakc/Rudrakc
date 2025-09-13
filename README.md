@@ -1,8 +1,9 @@
 ### Rudra Chauhan
 I am a student. I am passionate about Coding, Open Source, and creating cool and useful projects using my skills! 
 - Currently based in Bangalore
+<!---
 - Portfolio : [rudrachauhan.in](rudrachauhan.in)
-
+--->
   
 Contact Information:
 -  Email:  rudrachauhan2888@gmail.com
